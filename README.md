@@ -108,9 +108,15 @@ We've included specific notes about delivering the workshop in the workshop mate
 - **Have the instructor delegate complicated questions or technical issues to teaching assistants.** This will keep the workshop moving smoothly and make sure high-performing attendees don't get bored.
 - **Allow plenty of time for practice and experimentation.** There's no rush to any finish line. Make sure the experience is enjoyable and the children in particular are able to explore.
 
-### Code of Conduct
+### Policies and Releases
 
-We recommend creating and posting a Code of Conduct for your workshops that definitively states you're committed to a safe environment for all attendees and outlines what actions to take if there are any issues. Review both the code and the plan with all workshop staff before the workshop and make note of it during your event.
+#### Code of Conduct
+
+We recommend creating and posting a Code of Conduct for your workshops that definitively states you're committed to a safe environment for all attendees and outlines what actions to take if there are any issues. Review both the code and the plan with all workshop staff before the workshop and make note of it during your event. We've provided a sample Code of Conduct document you can use in this repository.
+
+#### Photography and Video Permission
+
+If you plan on taking photographs of video of workshops for marketing purposes (not a bad idea if you intend to offer regular workshops) or to provide to press, make sure you ask attendees for permission beforehand. You can also draw up simple releases for attendees to sign to confirm their consent and participation. Since we're not legal experts, please determine the best ways to go about this if you see a need for releases.
 
 ### Wrapping Up
 
