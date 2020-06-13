@@ -1,5 +1,12 @@
 # Code and Cupcakes Event Guide
 
+## Repository Contents
+
+- Docs:
+  - Contains sample documents.
+- README:
+  - Notes on how to plan and host a workshop.
+
 ## Overview
 
 Code and Cupcakes was designed as a fun, simple way to introduce coding while also providing a worthwhile activity for both parents and children. The curriculum, slidedeck and workshop notes are freely available for anyone to use. The following is a companion event guide that future workshop hosts can use to plan and implement a successful event. 
