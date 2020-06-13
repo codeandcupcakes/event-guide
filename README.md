@@ -35,7 +35,7 @@ Another area to think about is financial accessibility. While you might be able 
 When it comes to finding a location for your workshop, here is a list of things to make sure your venue can provide:
 
 - **Computers**
-  - You can also ask attendees to bring their own laptops, but in this case it might be nice to have a couple of spare laptops on hand to lend to those who don't have their own.
+  - You can also ask attendees to bring their own laptops, but in that case it might be nice to have a couple of spare laptops on hand to lend to those who can't bring their own.
 - **Good wifi or ethernet internet**
 - **Multiple, easily reached electrical outlets**
 - **Tables and chairs**
@@ -66,9 +66,17 @@ When you make your shopping list, include bottles of juices or water and disposa
 
 If you've found a venue, decided on an instructor and gathered a group of volunteers, you should be ready to fix a date and spread the word. If you think you might want to host more than one workshop, or even offer them on a regular basis into the future, you can set up some workshop-specific social media accounts and share the workshop details there. You can also use your own accounts, as well as contacting local organizations that are able to send the news to their own members and circles.
 
-Have attendees sign up ahead of time so you know how many people to expect. If your workshop is free, you can set up something like a Google Form that will capture names and contact information, or you can do this manually via email. If you need to charge in order to cover workshop costs, you can use a service like Tito (used for past Code and Cupcakes Chicago events) or Evenbrite for attendees to purchase tickets.
+Have attendees sign up ahead of time so you know how many people to expect. If your workshop is free, you can set up something like a Google Form that will capture names and contact information, or you can do this manually via email. If you need to charge in order to cover workshop costs, you can use a service to allow attendees to purchase tickets.
 
 Don't worry if you don't have huge attendance numbers. As long as the people there have a good time, the workshop will be a success.
+
+### Organization Tools
+
+We've found the following tools to be useful when planning workshops and keeping track of information:
+
+- [Google Docs](https://docs.google.com/): Easily sharable documents, including spreadsheets, presentations and forms.
+- [Codepen](https://codepen.io/): In-browser coding platform used during workshops to create and save code. More details about this in the Workshop Materials.
+- [Tito](https://ti.to/home): Online ticketing system.
 
 ## Event Day
 
@@ -99,6 +107,10 @@ We've included specific notes about delivering the workshop in the workshop mate
 - **Be positive and encouraging.** It's likely your workshop attendees will be completely new to coding and might feel unsure or uncomfortable. The goal is not necessarily just to teach code but to get people new to the community excited about learning more.
 - **Have the instructor delegate complicated questions or technical issues to teaching assistants.** This will keep the workshop moving smoothly and make sure high-performing attendees don't get bored.
 - **Allow plenty of time for practice and experimentation.** There's no rush to any finish line. Make sure the experience is enjoyable and the children in particular are able to explore.
+
+### Code of Conduct
+
+We recommend creating and posting a Code of Conduct for your workshops that definitively states you're committed to a safe environment for all attendees and outlines what actions to take if there are any issues. Review both the code and the plan with all workshop staff before the workshop and make note of it during your event.
 
 ### Wrapping Up
 
