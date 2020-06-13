@@ -121,3 +121,9 @@ If you plan on taking photographs of video of workshops for marketing purposes (
 ### Wrapping Up
 
 Altogether, you should schedule 2-3 hours for the workshop. If the venue is flexible, allow attendees to stay and play. You can send everyone home with lists of resources to use to continue their coding. Also schedule time for you and your volunteers to clean up and return the space to the way it was before you entered. Don't forget to send your volunteers—and yourself—home with the leftover cupcakes. You deserve a treat.
+
+## Other Repositories
+
+You can also take a look at:
+
+- [Code and Cupcakes Workshop Materials](https://github.com/codeandcupcakes/workshop-materials)
