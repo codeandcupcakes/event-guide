@@ -61,7 +61,7 @@ Many places will work for workshops. We have held workshops in coworking spaces,
 
 In addition to the group of teaching assistants we mentioned above, it can also be useful to have volunteers who can help with organizational details. They can help contact venues, manage attendees and set up the event. Some of them might even want to pull double duty and serve as teaching assistants as well.
 
-Ask around your community for those interested in coding education. If they have coding experience, sign them up as teaching assistants. If they don't, or they want to contribute more time, they can also help with the planning. Add everyone to an email list so they can stay informed.
+Ask around your community for those interested in coding education. If they have coding experience, sign them up as teaching assistants. If they don't, or they want to contribute more time, they can also help with the planning. Add everyone to an email list so you can keep them informed.
 
 ### Arranging Food & Drink
 
@@ -71,7 +71,7 @@ When you make your shopping list, include bottles of juices or water and disposa
 
 ### Marketing & Registration
 
-If you've found a venue, decided on an instructor and gathered a group of volunteers, you should be ready to fix a date and spread the word. If you think you might want to host more than one workshop, or even offer them on a regular basis into the future, you can set up some workshop-specific social media accounts and share the workshop details there. You can also use your own accounts, as well as contacting local organizations that are able to send the news to their own members and circles.
+If you've found a venue, decided on an instructor and gathered a group of volunteers, you should be ready to fix a date and spread the word. If you think you might want to host more than one workshop, or even offer them on a regular basis into the future, you can set up some workshop-specific social media accounts and share the workshop details there. You can also use your own accounts, as well as contacting local organizations that are able to send the news to their own members and circles. We provided a Code and Cupcakes logo image in the `graphics` folder of this repository you can use to promote your event.
 
 Have attendees sign up ahead of time so you know how many people to expect. If your workshop is free, you can set up something like a Google Form that will capture names and contact information, or you can do this manually via email. If you need to charge in order to cover workshop costs, you can use a service to allow attendees to purchase tickets.
 
@@ -82,7 +82,7 @@ Don't worry if you don't have huge attendance numbers. As long as the people the
 We've found the following tools to be useful when planning workshops and keeping track of information:
 
 - [Google Docs](https://docs.google.com/): Easily sharable documents, including spreadsheets, presentations and forms.
-- [Codepen](https://codepen.io/): In-browser coding platform used during workshops to create and save code. More details about this in the Workshop Materials.
+- [Codepen](https://codepen.io/): In-browser coding platform used during workshops to create and save code. More details about this in the [Workshop Materials](https://github.com/codeandcupcakes/workshop-materials).
 - [Tito](https://ti.to/home): Online ticketing system.
 
 ## Event Day
@@ -95,7 +95,7 @@ Establish a welcome table near the entrance so you can check attendees names aga
 
 As attendees get settled at tables, either you or another volunteer should check in with everyone individually to make sure they are welcomed and have everything they need. Point out the wifi information and help them connect their computers.
 
-We recommend waiting until halfway or even two-thirds through the workshop for a cupcake break. Otherwise, eating while coding can be distracting. But you can set out drinks or bottles of water so that attendees can help themselves at the beginnin. Careful with beverages around the computers!
+We recommend waiting until halfway or even two-thirds through the workshop for a cupcake break. Otherwise, eating while coding can be distracting. But you can set out drinks or bottles of water so that attendees can help themselves at the beginning. Careful with beverages around the computers!
 
 ### Supplies
 
@@ -109,7 +109,7 @@ If you've hosted events before, you know that sometimes unexpected things can ha
 
 ### Teaching Tips
 
-We've included specific notes about delivering the workshop in the workshop material repository. But some general things to keep in mind:
+We've included specific notes about delivering the workshop in the [Workshop Materials](https://github.com/codeandcupcakes/workshop-materials) repository. But here are some general things to keep in mind:
 
 - **Be positive and encouraging.** It's likely your workshop attendees will be completely new to coding and might feel unsure or uncomfortable. The goal is not necessarily just to teach code but to get people new to the community excited about learning more.
 - **Have the instructor delegate complicated questions or technical issues to teaching assistants.** This will keep the workshop moving smoothly and make sure high-performing attendees don't get bored.
@@ -119,11 +119,11 @@ We've included specific notes about delivering the workshop in the workshop mate
 
 #### Code of Conduct
 
-We recommend creating and posting a Code of Conduct for your workshops that definitively states you're committed to a safe environment for all attendees and outlines what actions to take if there are any issues. Review both the code and the plan with all workshop staff before the workshop and make note of it during your event. We've provided a sample Code of Conduct document you can use in this repository.
+We recommend creating and posting a Code of Conduct for your workshops that definitively states you're committed to a safe environment for all attendees and outlines what actions to take if there are any issues. Review both the code and the plan for implementing it with all workshop staff before the workshop and make note of it during your event. We've provided a sample Code of Conduct document you can use in the `docs` folder of this repository.
 
 #### Photography and Video Permission
 
-If you plan on taking photographs of video of workshops for marketing purposes (not a bad idea if you intend to offer regular workshops) or to provide to press, make sure you ask attendees for permission beforehand. You can also draw up simple releases for attendees to sign to confirm their consent and participation. Since we're not legal experts, please determine the best ways to go about this if you see a need for releases.
+If you plan on taking photographs of video of workshops for marketing purposes or to provide to press (not a bad idea if you intend to offer regular workshops), make sure you ask attendees for permission beforehand. You can also draw up simple releases for attendees to sign to confirm their consent and participation. (Since we're not legal experts, please determine the best ways to go about this if you see a need for releases.)
 
 ### Wrapping Up
 
