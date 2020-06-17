@@ -133,7 +133,7 @@ Altogether, you should schedule 2-3 hours for the workshop. If the venue is flex
 
 ## Virtual Events
 
-If you want to try to host your workshop virtually, we've put together some notes that might help you out: [Virtual Workshop Guide](https://github.com/codeandcupcakes/virtual-workshop-guide).
+If you want to try to host your workshop virtually, we've put together some notes that might help you out: [Virtual Workshop Guide](https://github.com/codeandcupcakes/event-guide/blob/master/virtual-workshop-guide.md).
 
 ## Other Repositories
 
