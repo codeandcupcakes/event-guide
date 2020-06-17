@@ -6,6 +6,8 @@
   - Contains sample documents.
 - README:
   - Notes on how to plan and host a workshop.
+- Virtual Workshop Guide:
+  - Notes on how to host a virtual workshop.
 
 ## Overview
 
@@ -128,6 +130,10 @@ If you plan on taking photographs of video of workshops for marketing purposes o
 ### Wrapping Up
 
 Altogether, you should schedule 2-3 hours for the workshop. If the venue is flexible, allow attendees to stay and play. You can send everyone home with lists of resources to use to continue their coding. Also schedule time for you and your volunteers to clean up and return the space to the way it was before you entered. Don't forget to send your volunteers—and yourself—home with the leftover cupcakes. You deserve a treat.
+
+## Virtual Events
+
+If you want to try to host your workshop virtually, we've put together some notes that might help you out: [Virtual Workshop Guide](https://github.com/codeandcupcakes/virtual-workshop-guide).
 
 ## Other Repositories
 
